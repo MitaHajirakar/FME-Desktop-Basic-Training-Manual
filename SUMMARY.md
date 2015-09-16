@@ -43,3 +43,4 @@
     * [Debugging](3.08.Debugging.md)
     * [Logging](3.09.Logging.md)
     * [Feature Counts](3.10.FeatureCounts.md)
+    * [Workspace Searching](3.11.WorkspaceSearching.md)
