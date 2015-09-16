@@ -49,3 +49,5 @@
     * [Organization](3.14.Organization.md)
     * [Sharing Resources](3.15.SharingResources.md)
     * [Templates](3.16.Templates.md)
+    * [FME Projects](3.17.FMEProjects.md)
+    * [Module Review](3.18.ModuleReview.md)
