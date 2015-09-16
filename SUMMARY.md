@@ -44,3 +44,8 @@
     * [Logging](3.09.Logging.md)
     * [Feature Counts](3.10.FeatureCounts.md)
     * [Workspace Searching](3.11.WorkspaceSearching.md)
+    * [Testing Isolated Sections](3.12.TestingIsolatedSections.md)
+    * [Feature Debugging](3.13.FeatureDebugging.md)
+    * [Organization](3.14.Organization.md)
+    * [Sharing Resources](3.15.SharingResources.md)
+    * [Templates](3.16.Templates.md)
