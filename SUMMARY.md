@@ -40,3 +40,6 @@
     * [Annotating Workspaces](3.05.AnnotatingWorkspaces.md)
     * [Bookmarks](3.06.Bookmarks.md)
     * [General Style Suggestions](3.07.GeneralStyle.md)
+    * [Debugging](3.08.Debugging.md)
+    * [Logging](3.09.Logging.md)
+    * [Feature Counts](3.10.FeatureCounts.md)
