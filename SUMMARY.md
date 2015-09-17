@@ -62,4 +62,9 @@
 	* [Unexpected Input](4.08.UnexpectedInputRemover.md)
 	* [Dealing with Unexpected Input](4.09.DealingWithUnexpectedInput.md)
 	* [Reader Feature Type Parameters](4.10.ReaderFeatureTypeParameters.md)
-	* 
+	* [Writers](4.11.Writers.md)
+	* [Controlling Writers](4.12.ControllingWriters.md)
+	* [Writer Feature Types](4.13.WriterFeatureTypes.md)
+	* [Import Writer Feature Types](4.14.ImportWriterFeatureTypes.md)
+	* [Writer Feature Type Parameters](4.15.WriterFeatureTypeParameters.md)
+	* [Module Review](4.16.ModuleReview.md)
