@@ -56,6 +56,7 @@
 	* [Workspaces](4.02.Workspaces.md)
 	* [Readers](4.03.Readers.md)
 	* [Reader Parameters](4.04.ReaderParameters.md)
+	* [Reader Dataset Parameter](4.04b.ReaderDatasetParameter.md)
 	* [Reader Feature Types](4.05.ReaderFeatureTypes.md)
 	* [Importing Reader Feature Types](4.06.ImportingReaderFeatureTypes.md)
 	* [Managing Reader Datasets](4.07.ManagingReaderDatasets.md)
