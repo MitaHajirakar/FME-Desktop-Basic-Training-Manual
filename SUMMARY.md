@@ -12,6 +12,7 @@
     * [FME Workbench Components](1.05.FMEWorkbenchComponents.md)
     * [Window Control in Workbench](1.06.WindowControl.md)
     * [Creating a Translation](1.07.CreatingATranslation.md)
+    * [Exercise 1a](1.ex1a.md)
     * [Data Inspection](1.08.WhatIsDataInspection.md)
     * [Introduction to FME Data Inspector](1.09.IntroductionToDataInspector.md)
     * [FME Data Inspector Components](1.10.DataInspectorComponents.md)
