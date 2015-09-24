@@ -36,6 +36,7 @@
     * [Exercise 2c](2.ex2c.md)
     * [Feature Count Display](2.07b.FeatureCounts.md)
     * [Transformers in Parallel](2.08.TransformersInParallel.md)
+    * [Exercise 2d](2.ex2d.md)
     * [Group-By Processing](2.09.GroupByProcessing.md)
     * [Data Inspection from Workbench](2.10.DataInspectionFromWorkbench.md)
     * [Coordinate System Transformation](2.11.CoordinateSystemTransformation.md)
