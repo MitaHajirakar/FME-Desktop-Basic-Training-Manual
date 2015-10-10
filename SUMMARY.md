@@ -77,6 +77,7 @@
 	* [Exercise 4a](4.ex4a.md)
 	* [Importing Reader Feature Types](4.06.ImportingReaderFeatureTypes.md)
 	* [Managing Reader Datasets](4.07.ManagingReaderDatasets.md)
+	* [Exercise 4b](4.ex4b.md)
 	* [Unexpected Input](4.08.UnexpectedInputRemover.md)
 	* [Dealing with Unexpected Input](4.09.DealingWithUnexpectedInput.md)
 	* [Reader Feature Type Parameters](4.10.ReaderFeatureTypeParameters.md)
