@@ -80,6 +80,7 @@
 	* [Exercise 4b](4.ex4b.md)
 	* [Unexpected Input](4.08.UnexpectedInputRemover.md)
 	* [Dealing with Unexpected Input](4.09.DealingWithUnexpectedInput.md)
+	* [Exercise 4c](4.ex4c.md)
 	* [Reader Feature Type Parameters](4.10.ReaderFeatureTypeParameters.md)
 	* [Writers](4.11.Writers.md)
 	* [Controlling Writers](4.12.ControllingWriters.md)
