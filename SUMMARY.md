@@ -1,8 +1,8 @@
 # Summary
 
-* [About This Document](./Introduction/0.00.CourseIntroduction.md)
-	* [Course Overview](./Introduction/0.01.CourseOverview.md)
-	* [Course Resources](./Introduction/0.02.CourseResources.md)
+* [About This Document](./0Introduction/0.00.CourseIntroduction.md)
+	* [Course Overview](./0Introduction/0.01.CourseOverview.md)
+	* [Course Resources](./0Introduction/0.02.CourseResources.md)
 * [Data Translation Basics](./1Basics/1.00.DataTranslationBasics.md)
     * [What is FME](./1Basics/1.01.WhatIsFME.md)
     * [How FME Works](./1Basics/1.02.FMEDataModel.md)
