@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](./Introduction/0.00.CourseIntroduction.md)
+* [About This Document](./Introduction/0.00.CourseIntroduction.md)
 	* [Course Overview](./Introduction/0.01.CourseOverview.md)
 	* [Course Resources](./Introduction/0.02.CourseResources.md)
 * [Data Translation Basics](1.00.DataTranslationBasics.md)
