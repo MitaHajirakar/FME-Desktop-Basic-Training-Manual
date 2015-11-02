@@ -1,3 +1,11 @@
+##NOTES##
+This content is a set of templates to use for tips, warnings, new, person x says, and exercises.
+
+It's vitally important that there is an empty line between the "---" horizontal rule and any other content!
+
+
+
+## Templates ##
 
 <!--Tip Section--> 
 

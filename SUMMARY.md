@@ -23,6 +23,7 @@
     * [Exercise 1c](./1Basics/1.ex1c.md)
     * [Data Translation Previews](./1Basics/1.15.TranslationPreviews.md)
     * [Module Review](./1Basics/1.16.ModuleReview.md)
+    * [Q+A Answers](./1Basics/1.17.QuestionAnswers.md)
     * [Exercise 1d](./1Basics/1.ex1d.md)
 * [Data Transformation](./2Transformation/2.00.DataTransformation.md)
     * [What is Data Transformation](./2Transformation/2.01.WhatIsDataTransformation.md)
