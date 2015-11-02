@@ -120,3 +120,4 @@
 	* [Course Certificate](./6WrapUp/6.04.Certificates.md)
 	* [Thank You](./6WrapUp/6.05.ThankYou.md)
 	* [TEST COMPONENTS](TemplatesForTipsAndExercises.md)
+	* [TEST 2](./1Basics/9.99.Test.md)
