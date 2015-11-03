@@ -4,7 +4,7 @@
 	* [Course Overview](./0Introduction/0.01.CourseOverview.md)
 	* [Course Resources](./0Introduction/0.02.CourseResources.md)
 * [Data Translation Basics](./1Basics/1.00.DataTranslationBasics.md)
-    * [What is FME](./1Basics/1.01.WhatIsFME.md)
+    * [What is FME?](./1Basics/1.01.WhatIsFME.md)
     * [How FME Works](./1Basics/1.02.FMEDataModel.md)
     * [FME Desktop Components](./1Basics/1.03.FMEDesktopComponents.md)
     * [Introduction to FME Workbench](./1Basics/1.04.IntroductionToWorkbench.md)
