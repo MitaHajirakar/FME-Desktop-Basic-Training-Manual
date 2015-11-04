@@ -176,5 +176,7 @@ By completing this exercise you have learned how to:
 </table>
 
 
+Alternative message for end-of-chapter exercise:
 
+By completing this exercise you proved you know how to:
 
