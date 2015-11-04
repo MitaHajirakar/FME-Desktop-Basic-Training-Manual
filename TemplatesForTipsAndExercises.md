@@ -148,3 +148,33 @@ This is text as spoken by a person from the city of Interopolis
 </tr>
 
 </table>
+
+
+---
+
+<!--Exercise Congratulations Section--> 
+
+<table style="border-spacing: 0px">
+<tr>
+<td style="vertical-align:middle;background-color:darkorange;border: 2px solid darkorange">
+<i class="fa fa-thumbs-o-up fa-lg fa-pull-left fa-fw" style="color:white;padding-right: 12px;vertical-align:text-top"></i>
+<span style="color:white;font-size:x-large;font-weight: bold;font-family:serif">CONGRATULATIONS</span>
+</td>
+</tr>
+
+<tr>
+<td style="border: 1px solid darkorange">
+<span style="font-family:serif; font-style:italic; font-size:larger">
+By completing this exercise you have learned how to:
+<br><br><li>Here is a list of achievements
+<br><li>This uses a font awesome icon (this won't show in PDF)
+<br><li>The text is a serif font, italic.
+<br><li>It is in a table with an orange border
+</span>
+</td>
+</tr>
+</table>
+
+
+
+
