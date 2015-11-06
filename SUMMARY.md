@@ -41,7 +41,7 @@
     * [Transformers in Parallel](./2Transformation/2.09.TransformersInParallel.md)
     * [Exercise: Grounds Maintenance Project - Labelling Features](./2Transformation/2.Exercise4.md)
     * [Group-By Processing](./2Transformation/2.10.GroupByProcessing.md)
-    * [Exercise 2e](./2Transformation/2.Exercise5.md)
+    * [Exercise: Grounds Maintenance Project - Neighborhood Averages](./2Transformation/2.Exercise5.md)
     * [Data Inspection from Workbench](./2Transformation/2.11.DataInspectionFromWorkbench.md)
     * [Coordinate System Transformation](./2Transformation/2.12.CoordinateSystemTransformation.md)
     * [Exercise 2f](./2Transformation/2.Exercise6.md)
