@@ -7,6 +7,8 @@ It's vitally important that there is an empty line between the "---" horizontal 
 
 ## Templates ##
 
+---
+
 <!--Tip Section--> 
 
 <table style="border-spacing: 0px">
@@ -29,9 +31,7 @@ This is a tip that provides information and advice
 </tr>
 </table>
 
-
 ---
-
 
 <!--Warning Section--> 
 
@@ -54,7 +54,6 @@ This is a warning that alerts the user something is important of which to be car
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -80,7 +79,6 @@ This is a marker for a feature new to this release
 </tr>
 </table>
 
-
 ---
 
 <!--Person X Says Section-->
@@ -104,7 +102,6 @@ This is text as spoken by a person from the city of Interopolis
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -149,6 +146,29 @@ This is text as spoken by a person from the city of Interopolis
 
 </table>
 
+---
+
+<!--Advanced Exercise Section-->
+
+<table style="border-spacing: 0px">
+<tr>
+<td style="vertical-align:middle;background-color:darkorange;border: 2px solid darkorange">
+<i class="fa fa-cogs fa-lg fa-pull-left fa-fw" style="color:white;padding-right: 12px;vertical-align:text-top"></i>
+<span style="color:white;font-size:x-large;font-weight: bold;font-family:serif">Advanced Exercise</span>
+</td>
+</tr>
+
+<tr>
+<td style="border: 1px solid darkorange">
+<span style="font-family:serif; font-style:italic; font-size:larger">
+This is text to describe an advanced exercise
+<br>It uses a font awesome icon (this won't show in PDF)
+<br>The text is a serif font, italic.
+<br>It is in a table with an orange border
+</span>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -176,7 +196,6 @@ By completing this exercise you have learned how to:
 </table>
 
 
-Alternative message for end-of-chapter exercise:
+<!--Alternative message for end-of-chapter exercise:-->
 
 By completing this exercise you proved you know how to:
-
