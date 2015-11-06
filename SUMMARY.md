@@ -39,7 +39,7 @@
     * [Exercise: Grounds Maintenance Project - Calculating Statistics](./2Transformation/2.Exercise3.md)
     * [Feature Count Display](./2Transformation/2.08.FeatureCounts.md)
     * [Transformers in Parallel](./2Transformation/2.09.TransformersInParallel.md)
-    * [Exercise 2d](./2Transformation/2.Exercise4.md)
+    * [Exercise: Grounds Maintenance Project - Labelling Features](./2Transformation/2.Exercise4.md)
     * [Group-By Processing](./2Transformation/2.10.GroupByProcessing.md)
     * [Exercise 2e](./2Transformation/2.Exercise5.md)
     * [Data Inspection from Workbench](./2Transformation/2.11.DataInspectionFromWorkbench.md)
