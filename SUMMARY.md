@@ -47,7 +47,7 @@
     * [Exercise: Grounds Maintenance Project - Data Reprojection](./2Transformation/2.Exercise6.md)
     * [Module Review](./2Transformation/2.13.ModuleReview.md)
     * [Q+A Answers](./2Transformation/2.14.QuestionAnswers.md)
-    * [Exercise 2g](./2Transformation/2.Exercise7.md)
+    * [Exercise: Voting Analysis Project](./2Transformation/2.Exercise7.md)
 * [Best Practice](./3BestPractice/3.00.BestPractice.md)
 	* [Methodology](./3BestPractice/3.01.Methodology.md)
     * [Format Methodology](./3BestPractice/3.02.FormatMethodology.md)
