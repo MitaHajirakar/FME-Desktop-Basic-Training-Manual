@@ -44,7 +44,7 @@
     * [Exercise: Grounds Maintenance Project - Neighborhood Averages](./2Transformation/2.Exercise5.md)
     * [Data Inspection from Workbench](./2Transformation/2.11.DataInspectionFromWorkbench.md)
     * [Coordinate System Transformation](./2Transformation/2.12.CoordinateSystemTransformation.md)
-    * [Exercise 2f](./2Transformation/2.Exercise6.md)
+    * [Exercise: Grounds Maintenance Project - Data Reprojection](./2Transformation/2.Exercise6.md)
     * [Module Review](./2Transformation/2.13.ModuleReview.md)
     * [Q+A Answers](./2Transformation/2.14.QuestionAnswers.md)
     * [Exercise 2g](./2Transformation/2.Exercise7.md)
