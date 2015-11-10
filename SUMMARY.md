@@ -57,8 +57,7 @@
     	* [Bookmarks for Editing](./3BestPractice/3.06.BookmarksForEditing.md)
     * [General Style Suggestions](./3BestPractice/3.07.GeneralStyle.md)
     * [Exercise: The FME Style Guide](./3BestPractice/3.Exercise1.md)
-    * 
-	* [Methodology](./3BestPractice/3.08.Methodology.md)
+    * [Methodology](./3BestPractice/3.08.Methodology.md)
     * [Format Methodology](./3BestPractice/3.09.FormatMethodology.md)
     * [Transformer Methodology](./3BestPractice/3.10.TransformerMethodology.md)
     * [Exercise: Design Patterns](./3BestPractice/3.Exercise2.md)
