@@ -61,7 +61,6 @@
     * [Format Methodology](./3BestPractice/3.09.FormatMethodology.md)
     * [Transformer Methodology](./3BestPractice/3.10.TransformerMethodology.md)
     * [Exercise: Design Patterns](./3BestPractice/3.Exercise2.md)
-    * 
     * [Debugging](./3BestPractice/3.11.Debugging.md)
     * [Logging](./3BestPractice/3.12.Logging.md)
     * [Interpreting the Log](./3BestPractice/3.13.InterpretingTheLog.md)
@@ -70,16 +69,13 @@
     * [Testing Isolated Sections](./3BestPractice/3.16.TestingIsolatedSections.md)
     * [Exercise: Debugging a Workspace](./3BestPractice/3.Exercise3.md)
     * [Feature Debugging](./3BestPractice/3.17.FeatureDebugging.md)
-    * 
     * [Organization](./3BestPractice/3.18.Organization.md)
     * [Sharing Resources](./3BestPractice/3.19.SharingResources.md)
     * [Templates](./3BestPractice/3.20.Templates.md)
     * [FME Projects](./3BestPractice/3.21.FMEProjects.md)
     * [Module Review](./3BestPractice/3.22.ModuleReview.md)
     * [Q+A Answers](./3BestPractice/3.23.QuestionAnswers.md)
-    * 
     * [Exercise: Shortest Route Hackathon](./3BestPractice/3.Exercise4.md)
-    * 
 * [Translation Components](./4Components/4.00.TranslationComponents.md)
 	* [Key Components](./4Components/4.01.KeyComponents.md)
 	* [Workspaces](./4Components/4.02.Workspaces.md)
