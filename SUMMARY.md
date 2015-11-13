@@ -78,6 +78,7 @@
     * [Exercise: Shortest Route Hackathon](./3BestPractice/3.Exercise4.md)
 * [Translation Components](./4Components/4.00.TranslationComponents.md)
 	* [Key Components](./4Components/4.01.KeyComponents.md)
+	* [Component Hierarchy](./4Components/4.01b.ComponentHierarchy.md)
 	* [Workspaces](./4Components/4.02.Workspaces.md)
 	* [Readers](./4Components/4.03.Readers.md)
 	* [Reader Parameters](./4Components/4.04.ReaderParameters.md)
