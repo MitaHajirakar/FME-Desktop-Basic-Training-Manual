@@ -94,7 +94,7 @@
 	* [Dealing with Unexpected Input](./4Components/4.13.DealingWithUnexpectedInput.md)
 	* [Exercise: xxxx](./4Components/4.Exercise3.md)
 	* [Writers](./4Components/4.14.Writers.md)
-	* [Controlling Writers](./4Components/4.15.ControllingWriters.md)
+	* [Controlling Writers](./4Components/4.15.WriterParameters.md)
 	* [Writer Feature Types](./4Components/4.16.WriterFeatureTypes.md)
 	* [Import Writer Feature Types](./4Components/4.17.ImportWriterFeatureTypes.md)
 	* [Writer Feature Type Parameters](./4Components/4.18.WriterFeatureTypeParameters.md)
