@@ -106,7 +106,7 @@
 	* [Writer Feature Type Parameters](./4Components/4.20.WriterFeatureTypeParameters.md)
 	* [Module Review](./4Components/4.21.ModuleReview.md)
 	* [Q+A Answers](./4Components/4.22.QuestionAnswers.md)
-	* [Exercise: xxxx](./4Components/4.Exercise5.md)
+	* [Exercise: Elevation Model Updates](./4Components/4.Exercise8.md)
 * [Practical Transformer Use](./5Transformers/5.00.PracticalTransformerUse.md)
 	* [Transformer Searching](./5Transformers/5.01.TransformerSearching.md)
 	* [Most Valuable Transformers](./5Transformers/5.02.MostValuableTransformers.md)
