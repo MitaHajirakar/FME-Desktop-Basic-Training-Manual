@@ -134,4 +134,4 @@
 	* [Community Information and Resources](./6WrapUp/6.02.CommunityInfo.md)
 	* [Feedback and Certificates](./6WrapUp/6.03.CourseFeedback.md)
 	* [Thank You](./6WrapUp/6.04.ThankYou.md)
-	* [Exercise: A Pointless Quiz!](6.05.Pointless.md)
+	* [Exercise: A Pointless Quiz!](./6WrapUp/6.05.Pointless.md)
